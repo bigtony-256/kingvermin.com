@@ -2,9 +2,13 @@ body {
   font-family: Garamond, serif;
   margin: 40px;
   line-height: 1.6;
+  background-color: black;
+  color: white
 }
 
 header {
-  border-bottom: 1px solid #ccc;
+  border-bottom: 1px solid #3a3a3a;
   margin-bottom: 20px;
+background-color: black;
+  color: white
 }
